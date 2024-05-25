@@ -301,10 +301,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/NexusBotUpdates/5"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/nexusbotsupdate/2"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪꜱᴀꜱᴛᴇʀ", url="https://t.me/NexusBotUpdates/6"
+                                "ᴅɪꜱᴀꜱᴛᴇʀ", url="https://t.me/nexusbotsupdate/3"
                             ),
                         ],
                     ]
