@@ -3,7 +3,7 @@
 # Licensed under MIT License
 # Copyright (c) 2022-2024 AnonymousX1025
  
-from .. import dispatcher, TOKEN
+from .. import dispatcher, TOKEN,logging
 from telegram.ext import CommandHandler, CallbackContext
 from telegram import Update
 import requests
@@ -18,7 +18,8 @@ def bing_reverse_image(image_url):
     
     file_path = get_path["result"]["file_path"]
     resp = requests.post(f"{url}https://api.telegram.org/file/bot${TOKEN}/${file_path}").json()
-    print(resp)
+    logging.info(resp)
+    return resp
     if resp.code == 2: 
         return_str = "Showing Top 5 results from Bing:\n\n"
 
