@@ -19,11 +19,11 @@ def bing_reverse_image(image_url):
     file_path = get_path["result"]["file_path"]
     resp = requests.post(f"{url}https://api.telegram.org/file/bot${TOKEN}/${file_path}").json()
     
-    if resp.data.code == 2: 
+    if resp.code == 2: 
         return_str = "Showing Top 5 results from Bing:\n\n"
 
         for i in range(5):
-            return_str += f"{i+1} - {resp.data.content.bestResults[i].name}\n\n"
+            return_str += f"{i+1} - {resp.content.bestResults[i].name}\n\n"
 
         return return_str
     
