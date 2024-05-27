@@ -9,7 +9,7 @@ from telegram import Update
 import requests
 
 
-async def bing_reverse_image(image_url):
+def bing_reverse_image(image_url):
     url = "https://api.qewertyy.dev/image-reverse/bing?img_url="
 
     get_path = requests.post(
@@ -17,7 +17,7 @@ async def bing_reverse_image(image_url):
         ).json()
     
     file_path = get_path["result"]["file_path"]
-    resp = await requests.post(f"{url}https://api.telegram.org/file/bot${Token}/${file_path}")
+    resp = requests.post(f"{url}https://api.telegram.org/file/bot${Token}/${file_path}")
 
     if resp.data.code == 2: 
         return_str = "Showing Top 5 results from Bing:\n\n"
@@ -32,25 +32,25 @@ async def bing_reverse_image(image_url):
     
 
 
-async def bing_reverse(update: Update, context: CallbackContext):
+def bing_reverse(update: Update, context: CallbackContext):
     
     message = update.effective_message
     reply = update.effective_message.reply_to_message
 
     if not reply :
-        await message.reply_text("Reply to a photo to reverse search it.")
+        message.reply_text("Reply to a photo to reverse search it.")
         return
     
     elif not reply.photo and not reply.document.mime_type == "image/png" :
-        await message.reply_text("Reply to a photo to reverse search it.")
+        message.reply_text("Reply to a photo to reverse search it.")
         return
     
     else :
         
-        edit_message = await message.reply_text("Searching results in Bing....")
+        edit_message = message.reply_text("Searching results in Bing....")
         file_id = reply.photo[-1].file_id if reply.photo else reply.document.file_id
-        edit = await bing_reverse_image(file_id)
-        await edit_message.edit_text(edit)
+        edit = bing_reverse_image(file_id)
+        edit_message.edit_text(edit)
         return
     
 
