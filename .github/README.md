@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/1f42c86603b5c4dba3397.mp4">
+  <img src="https://telegra.ph/file/1f42c86603b5c4dba3397">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [KAiXsen](https://t.me/KaiXsen)**_
