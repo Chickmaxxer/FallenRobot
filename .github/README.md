@@ -1,4 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━
+
 
 <h2 align="center">
     AlbedoXproBot
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [KAiXsen](https://t.
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://graph.org/file/6961eb4e48ff175661166.jpg">
+  <img src="https://telegra.ph/file/37e4c5b161590c9ec2bc8.jpg">
 </p>
 
 <p align="center">
