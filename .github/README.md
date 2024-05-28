@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    AlbedoXproBot
 </h2>
 
 <p align="center">
-  <img src="https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://telegra.ph/file/1f42c86603b5c4dba3397.mp4">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [❥⍣⃝𝐒ɴᴇʜᴀⓍ≛⃝ 𝐃ᴇᴍᴏɴ🦋⃟❱‌ٖ](https://t.me/Snehaxprobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [KAiXsen](https://t.me/KaiXsen)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
