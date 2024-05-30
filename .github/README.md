@@ -100,7 +100,7 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 - <b>[KAI](https://github.com/kaisan5)  </b>
-- <b>[ᴅᴏᴜᴍᴀ](https://github.com/Chickmaxxer) </b>
+- <b>[GRIFFITH](https://github.com/Chickmaxxer) </b>
 - <b>[JustAweeb]() </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://t.me/nexusbotsupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
