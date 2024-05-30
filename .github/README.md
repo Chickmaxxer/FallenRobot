@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/bcab4c12cf7889c282bbd.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [KAiXsen](https://t.me/KaiXsen)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Albedo](https://t.me/albedoxprobot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
